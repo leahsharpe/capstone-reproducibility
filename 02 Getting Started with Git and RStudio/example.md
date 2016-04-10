@@ -9,8 +9,8 @@ complete the assignments.
 ### The next largest heading
 #### The next largest heading
 ##### The next largest heading
-###### The smallest heading
 
+###### The smallest heading
 *Something in italics*
 
 **Something in bold**
