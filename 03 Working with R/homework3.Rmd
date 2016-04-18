@@ -17,19 +17,19 @@ No Rchunk is needed to accomplish this.
 Read in the homework3.csv data. For each of the following steps you
 should preface your R commands with some plain English explanation.
 -->
-
+The structure of the data includes 100 obs, with three seperate variables. 
+Major is the first variable factor with 2 levels that include business and psycology. 
+Year is the next varibale factor with 4 levels incuding freshman, junior, etc.. 
+Conservatism is the last variable, it is a number, and includes  44.5 38.6 34.2 32.2 42.3 ...
 
 
 <!--
 Check the structure of the data.
 -->
-
-
-
-<!--
-Find the mean, median, and standard deviation using the sd() function
-for the overall level of conservatism.
--->
+The structure of the data includes 100 obs, with three seperate variables. 
+Major is the first variable factor with 2 levels that include business and psycology. 
+Year is the next varibale factor with 4 levels incuding freshman, junior, etc.. 
+Conservatism is the last variable, it is a number, and includes  44.5 38.6 34.2 32.2 42.3 ...
 
 
 
@@ -37,8 +37,24 @@ for the overall level of conservatism.
 Find the mean level of support for freshmen only.
 -->
 
-
+The mean level of support for the freshman is 47.5
 
 <!--
 Find the mean level of support for male business students only.
 -->
+
+
+There is no way to tell the number of males business studentsm however the mean of all business students is 66.07
+
+And mean level by each year
+
+Freshman  52.3
+
+Sophomore   61.6
+
+Junior  68.7
+
+Senior  81.66
+
+
+
