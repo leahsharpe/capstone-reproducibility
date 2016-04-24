@@ -20,9 +20,10 @@ Check the structure of the data.
 
 The next step is to check out the structure
 
-```{r}
-str(dat)
-```
+'data.frame':	100 obs. of  3 variables:
+ $ major       : Factor w/ 2 levels "business","psychology": 2 2 2 2 2 2 2 2 2 2 ...
+ $ year        : Factor w/ 4 levels "freshman","junior",..: 1 1 1 1 1 1 1 1 1 1 ...
+ $ conservatism: num  44.5 38.6 34.2 32.2 42.3 ...
 
 As we can see dat is a data frame with three variables: gender,
 political party affiliation, and support for some initiative.
