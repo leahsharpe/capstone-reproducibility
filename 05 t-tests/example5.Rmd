@@ -58,6 +58,7 @@ t.test(dat$rt[dat$group=="control"],
        var.equal=TRUE)
 ```
 
+
 Examining the results of our t-test we can see that individuals in
 the experimental group performed the task quicker than individuals
 in the control group, t(48) = 3.15, p = .0028.
