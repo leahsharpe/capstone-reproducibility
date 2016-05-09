@@ -21,9 +21,7 @@ be factor variables into factor variables
 
 The next step is to check out the structure
 
-```{r}
 str(dat)
-```
 
 From the structure we can see that position, subject, and subject2
 should all be factor variables. So let's fix that.
